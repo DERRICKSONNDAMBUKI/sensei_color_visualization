@@ -70,4 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### Prepare The Data
-- create an .csv file (comma separated values file) using 
+- create an .csv file (comma separated values file) using google spreadsheets or any other spreadsheets app.
+- host the csv data in github gist.
+- obtain the raw url for fetching data from github gist.
