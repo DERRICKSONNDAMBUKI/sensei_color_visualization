@@ -73,3 +73,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - create an .csv file (comma separated values file) using google spreadsheets or any other spreadsheets app.
 - host the csv data in github gist.
 - obtain the raw url for fetching data from github gist.
+
+### Learn loading, parsing and summarizing data in react and d3
+- Parsing CSV data with d3
+- d3-dsv (delimiter-separated vales)
+- Counting rows and columns
+- Estimating data size
+- Constructing and displaying text with d3 and css
+- Using d3,csv,csvParse and csvFormat
